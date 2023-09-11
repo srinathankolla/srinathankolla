@@ -1,4 +1,5 @@
-![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/srinathankolla/srinathankolla/assets/115559003/93a6b854-b40f-4d91-97c4-0e1d6c55e7bf)
+![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/srinathankolla/srinathankolla/assets/115559003/6f29dd02-9766-419c-865b-d12a3fe71714)
+
 
 
 <h1 align="center">Hi 👋, I'm Srinath Ankolla</h1>
