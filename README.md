@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **srinathmudhiraj27@gmail.com**
 
-- ⚡ Fun fact **Mechanical Engineer Turned Data Enthusiast | Once Fueled Engines, Now Fueling Data Analysis**
+- ⚡ Fun fact **I'm a Mechanical Engineer Turned Data Enthusiast | Once Fueled Engines, Now Fueling Data Analysis**
 
 
 ## Connect with me:
