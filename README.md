@@ -1,4 +1,4 @@
-![Untitled design (11)](https://github.com/srinathankolla/srinathankolla/assets/115559003/0319d0e2-3caf-482a-a241-1eb82f9a58ae)
+![Untitled design (12)](https://github.com/srinathankolla/srinathankolla/assets/115559003/9b49f067-583f-400d-8a92-899248851976)
 
 
 
