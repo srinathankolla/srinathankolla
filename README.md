@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinathankolla&label=Profile%20views&color=0e75b6&style=flat" alt="srinathankolla" /> </p>
 
-- My diverse skills include **Excel, PowerBI, SQL & Python**
+- My diverse skills include **Excel, Power BI, SQL & Python**
 
 - All of my projects are available at [https://codebasics.io/portfolio/Srinath-Ankolla](https://codebasics.io/portfolio/Srinath-Ankolla)
 
