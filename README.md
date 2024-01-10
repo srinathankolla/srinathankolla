@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinathankolla&label=Profile%20views&color=0e75b6&style=flat" alt="srinathankolla" /> </p>
 
-- 🌱 I’m currently learning **Excel, PowerBI, SQL**
+- My diverse skills include **Excel, PowerBI, SQL & Python**
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Srinath-Ankolla](https://codebasics.io/portfolio/Srinath-Ankolla)
+- All of my projects are available at [https://codebasics.io/portfolio/Srinath-Ankolla](https://codebasics.io/portfolio/Srinath-Ankolla)
 
-- 📫 How to reach me **srinathmudhiraj27@gmail.com**
+- How to reach me **srinathmudhiraj27@gmail.com**
 
-- ⚡ Fun fact **I'm a Mechanical Engineer Turned Data Enthusiast | Once Fueled Engines, Now Fueling Data Analysis**
+- Fun fact **I'm a Mechanical Engineer Turned Data Enthusiast | Once Fueled Engines, Now Fueling Data Analysis**
 
 
 ## Connect with me:
