@@ -1,4 +1,5 @@
-![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/srinathankolla/srinathankolla/assets/115559003/6f29dd02-9766-419c-865b-d12a3fe71714)
+<img width="1500" alt="Green Business Coach Work Place Linkedin Banner" src="https://github.com/srinathankolla/srinathankolla/assets/115559003/b168e80a-4f2e-4988-ae0e-6ca62c1b9663">
+
 
 
 
